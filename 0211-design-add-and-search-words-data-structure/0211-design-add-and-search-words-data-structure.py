@@ -18,26 +18,26 @@ class WordDictionary:
         
         curr.isEnd = True
 
+    def dfs(self,index,word,node):
+        if index == len(word):
+            return node.isEnd
+        
+        ch = word[index]
+        if ch == ".":
+            for child in node.dict.values():
+                if self.dfs(index + 1,word, child):
+                    return True
+            
+            return False
+        
+        if ch not in node.dict:
+            return False
+        
+        return self.dfs(index + 1,word, node.dict[ch])
+
     def search(self, word: str) -> bool:
-        def dfs(index,node):
-            if index == len(word):
-                return node.isEnd
-            
 
-            ch = word[index]
-            if ch == ".":
-                for child in node.dict.values():
-                    if dfs(index + 1, child):
-                        return True
-                
-                return False
-            
-            if ch not in node.dict:
-                return False
-            
-            return dfs(index + 1, node.dict[ch])
-
-        return dfs(0, self.root)
+        return self.dfs(0, word, self.root)
         
 
 
