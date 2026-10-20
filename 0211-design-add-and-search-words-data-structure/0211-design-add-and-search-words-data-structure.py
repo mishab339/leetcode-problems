@@ -23,12 +23,13 @@ class WordDictionary:
             if index == len(word):
                 return node.isEnd
             
-            ch = word[index]
 
+            ch = word[index]
             if ch == ".":
                 for child in node.dict.values():
                     if dfs(index + 1, child):
                         return True
+                
                 return False
             
             if ch not in node.dict:
@@ -36,8 +37,7 @@ class WordDictionary:
             
             return dfs(index + 1, node.dict[ch])
 
-
-        return dfs(0,self.root)
+        return dfs(0, self.root)
         
 
 
