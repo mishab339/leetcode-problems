@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mishab339/leetcode-problems/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,12 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mishab339/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mishab339/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mishab339/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
