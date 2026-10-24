@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mishab339/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
+## Array
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/mishab339/leetcode-problems/tree/master/0213-house-robber-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/mishab339/leetcode-problems/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
