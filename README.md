@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mishab339/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/mishab339/leetcode-problems/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mishab339/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mishab339/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mishab339/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mishab339/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
