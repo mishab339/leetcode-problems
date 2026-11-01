@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/mishab339/leetcode-problems/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/mishab339/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mishab339/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/mishab339/leetcode-problems/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/mishab339/leetcode-problems/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
